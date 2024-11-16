@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Vikash PR</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Name is Sujith Kumar</p>
 <p align="center">
 <img width="120" src="https://github.com/VikashPR/VikashPR/assets/69889418/f749b025-1d9a-46a8-9bd0-5182c570551e">
 </p>
@@ -18,7 +18,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 	  
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
+☞ 〔 ⚪️ 〕  🌹 Roses are red 🌹 | 🎀 Violets are Blue 🎀 I cant stop falling for you.
 
 ☞ 〔 🐵 〕 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> --> <a href="https://www.sc.com/en/">![Standard Charted](https://img.shields.io/badge/Software%20Engineer-%40Standard%20Charted-brightgreen)</a>
 
@@ -35,13 +35,13 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 ### aboutMe.Js:
 
 ```javascript
-const VikashPR = {
+const Sujith_casey = {
    pronouns: "he" | "him",
-   code: ["JS", "PYTHON"],
-   askMeAbout: ["Software Engineering", "DevOps", "Reserch", "IoT"],
+   code: ["python","js"],
+   askMeAbout: ["Software Engineering", "DevOps", "CTF", "Competetive_coding"],
    technologies: {
        frontEnd: {
-           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
+           js: ["Vue.js", "React.js", "Next.js"]
        },
        backEnd: {
            basS: ["Firebase"]
@@ -94,7 +94,7 @@ const VikashPR = {
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Github Actions](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-### VikashPR.com speed:
+### Sujith speed:
 
 <img width="46%" src="metrics/pagespeed-detailed.svg"> <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
 
