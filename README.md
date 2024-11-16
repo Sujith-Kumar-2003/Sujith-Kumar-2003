@@ -38,9 +38,9 @@ const Sujith = {
        frontEnd: {
            js: ["React.js", "Next.js", "Vue.js"]
        },
-       backEnd: {
-           baas: ["Firebase"]
-       },
+       How_cool: {
+	fr:['godly']
+       }
        competitive: {
            compilerLang: ["C/C++"],
            interpretedLang: ["Python"]
@@ -66,5 +66,13 @@ src="https://github.com/Sujith-Kumar-2003/Sujith-Kumar-2003/blob/output/github-c
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img width="450em" src="https://streak-stats.demolab.com?user=Sujith-Kumar-2003&theme=vue-dark" alt="Sujith's Streak" />                                           |  <img width="450em" align="center" alt="Sujith's Github stats"  src="https://github-readme-stats.vercel.app/api?username=Sujith-Kumar-2003&show_icons=true&count_private=true&theme=vue-dark" />   |
 
+<h4 align="center">Isometric view of contributions in the last year.</h4>
+
+<p align="center">
+  <a href="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="900em" src="./profile-3d-contrib/profile-night-rainbow.svg">
+  </a>
+</p>
+<br/>
 
   
