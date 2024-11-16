@@ -52,6 +52,7 @@ const Sujith = {
 
 <p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/VikashPR/VikashPR/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
 <h4 align="center">Isometric view of contributions in the last year.</h4>
-![GitHub Contribution Grid Snake]([https://raw.githubusercontent.com/Sujith-Kumar-2003/Sujith-Kumar-2003/output/github-contribution-grid-snake.svg](https://github.com/Sujith-Kumar-2003/Sujith-Kumar-2003/blob/main/.github/workflows/snake.yml))
+
+![GitHub Contribution Grid Snake](https://github.com/Sujith-Kumar-2003/Sujith-Kumar-2003/blob/main/.github/workflows/snake.yml)
 
 https://github.com/Sujith-Kumar-2003/Sujith-Kumar-2003/blob/main/.github/workflows/snake.yml
