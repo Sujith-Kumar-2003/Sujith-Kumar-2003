@@ -48,5 +48,5 @@ const Sujith = {
        }
    }
 };
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/Sujith-Kumar-2003/Sujith-Kumar-2003/output/github-contribution-grid-snake.svg)
 
